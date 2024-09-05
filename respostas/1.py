@@ -17,3 +17,6 @@ def esta_na_fibonacci(numero):
         f_1 = soma
         
     return "o número não está na fibonacci"
+
+
+esta_na_fibonacci(377)
